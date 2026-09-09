@@ -1,0 +1,15 @@
+{
+  "BackupRoot": "D:\\FileBackupRT_BakFile",
+  "WatchPaths": [
+    "%USERPROFILE%\\Desktop",
+    "%USERPROFILE%\\Downloads"
+  ],
+  "IncludeSubdirectories": true,
+  "Extensions": [
+    ".exe", ".dll", ".zip", ".7z", ".rar", ".bat", ".cmd", ".ps1", ".py", ".bin", ".img", ".dat", ".json", ".xml", ".txt"
+  ],
+  "StableChecks": 3,
+  "StableDelaySeconds": 1,
+  "KeepMultipleVersions": true,
+  "ExcludeBackupRoot": true
+}
